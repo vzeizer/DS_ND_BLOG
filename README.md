@@ -1,5 +1,5 @@
 
-1. Installations
+# Installations
 
 The following packages (i.e., libraries) are necessary to finish this project:
 
@@ -9,7 +9,7 @@ The following packages (i.e., libraries) are necessary to finish this project:
 4. seaborn >= 0.10.0
 5. matplotlib >= 3.1.3
 
-2. Project Motivation
+# Project Motivation
 
 The motivation of the current project is to get insights from a dataset from Airbnb dating from 2016.
 
@@ -20,15 +20,16 @@ Outline of the Data Analysis:
 3. How does the mean price by the client is distributed over the first and second semesters of 2016?
 
 
-3. File Descriptions
+# File Descriptions
 
 1. airbnb_seatle_verson1.ipynb: ipython notebook containing all the data analysis of the Medium blog: "ANALYSIS OF AIRBNB DATA: THE INFLUENCE OF TIME, DAY OF WEEK, AND CLIENT DISTRIBUTION";
 
-4. How to interact to interact with your project
+# How to interact to interact with your project
 
 Just download this project and use it with anaconda :)
 
-5. Licensing
+
+# Licensing
 
 ## MIT License
 
@@ -53,6 +54,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-6. Author
+# Author
 
 1. Vagner Zeizer Carvalho Paes
