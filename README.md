@@ -26,6 +26,8 @@ Outline of the Data Analysis:
 
 4. How to interact to interact with your project
 
+Just download this project and use it with anaconda :)
+
 5. Licensing
 
 ## MIT License
