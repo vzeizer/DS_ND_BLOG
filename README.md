@@ -13,6 +13,8 @@ The following packages (i.e., libraries) are necessary to finish this project:
 
 The motivation of the current project is to get insights from a dataset from Airbnb dating from 2016.
 
+## Title: ANALYSIS OF AIRBNB DATA: THE INFLUENCE OF TIME, DAY OF WEEK, AND CLIENT DISTRIBUTION
+
 Outline of the Data Analysis:
 
 1. How does the total price of Airbnb vary over the first and second semesters of 2016?
@@ -27,6 +29,14 @@ Outline of the Data Analysis:
 # How to interact to interact with your project
 
 Just download this project and use it with anaconda :)
+
+
+# Summary of the results of the analysis
+
+
+1. For the first semester of 2016, the total sales of Airbnb was increasing fastly, but in the second semester, it reached a plateau. 
+2. The analysis of the total price by day of the week showed that in the first semester the sales are evenly distributed, while in the second semester they are biased toward Monday and Tuesday. 
+3. Analysis of the amount spent by a client showed that in the second amount the mean and maximum values were larger than in the first semester, however, also more spread (larger standard deviation).
 
 
 # Licensing
@@ -52,6 +62,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+# Acknowledgements
+
+Udacity is strongly and the reviewers are highly acknowledged for this great experience of writting a Data Science Blog.
 
 
 # Author
